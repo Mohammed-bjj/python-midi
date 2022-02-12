@@ -1,4 +1,4 @@
-Metadata-Version: 2.1
+Metadata-Version: 1.0
 Name: midi
 Version: 0.2.3
 Summary: Python MIDI API
@@ -6,8 +6,5 @@ Home-page: UNKNOWN
 Author: giles hall
 Author-email: ghall@csh.rit.edu
 License: UNKNOWN
+Description: UNKNOWN
 Platform: UNKNOWN
-License-File: LICENSE
-
-UNKNOWN
-
